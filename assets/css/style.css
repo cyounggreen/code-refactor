@@ -47,7 +47,7 @@ a {
     text-decoration: none;
 }
 
-/*Header background image*/
+/*Header background image: renamed in order to make more sense.*/
 .background-img {
     height: 800px;
     width: 100%;
@@ -57,7 +57,7 @@ a {
     background-position: center;
 }
 
-/*Main services content*/
+/*Main services content: consolidated repetitive content in order to reduce clutter.*/
 .content {
     width: 75%;
     display: inline-block;
@@ -96,7 +96,7 @@ p {
     margin-left: 25px;
 }
 
-/*Benefits of using Horiseon section*/
+/*Benefits of using Horiseon section: consolidated the previous benefit section to reduce clutter.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,7 +126,7 @@ p {
     max-width: 150px;
 }
 
-/*Footer content*/
+/*Footer content: changed h2 to h4 in order to keep order consistent.*/
 .footer {
     padding: 30px;
     clear: both;
